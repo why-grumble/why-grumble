@@ -57,12 +57,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=why-grumble&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=why-grumble&locale=fr&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
