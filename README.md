@@ -29,7 +29,7 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=powershell,bash,html,php,css,mysql," height="40"  /><br><br>
-  <img src="https://skillicons.dev/icons?i=vscode,ps,pr" height="40"  /><br><br>
+  <img src="https://skillicons.dev/icons?i=linux,raspberrypi,vscode,ps,pr" height="40"  /><br><br>
   <img src="https://skillicons.dev/icons?i=azure,grafana,prometheus,wordpress" height="40"  />
 </div>
 
