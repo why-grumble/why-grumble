@@ -19,7 +19,7 @@
 
 ###
 :house: Limoges, France<br>
-:birthday: 26 ans
+:birthday: 24 ans
 
 ###
 
