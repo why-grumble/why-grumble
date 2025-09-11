@@ -11,10 +11,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/why-grumble/why-grumble/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">👩‍💻  À propos de moi</h3>
 
 ###
